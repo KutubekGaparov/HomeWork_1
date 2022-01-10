@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nameAuto": "Renault",
+    "driver": "",
+    "type": "base"
+  },
+  {
+    "id": 2,
+    "nameAuto": "Volvo  ",
+    "driver": "",
+    "type": "base"
+  },
+  {
+    "id": 3,
+    "nameAuto": "DAF XT ",
+    "driver": "",
+    "type": "base"
+  }
+]
